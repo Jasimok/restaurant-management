@@ -1,0 +1,72 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "name": "jasim",
+      "email": "jasim@gmail.com",
+      "password": "jasim123"
+    },
+    {
+      "id": "1200",
+      "name": "sagor",
+      "email": "sagor@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "cf53",
+      "name": "mustain",
+      "email": "mustain@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "6724",
+      "name": "ami",
+      "email": "ami@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "2903",
+      "name": "tumi",
+      "email": "tumi@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "d430",
+      "name": "tumiami ",
+      "email": "tumiami@gmail.com",
+      "password": "ZRQiMqNNVyc64qf"
+    }
+  ],
+  "restaurant": [
+    {
+      "id": "1",
+      "name": "Kaca Longka",
+      "details": "Nirala Khulna",
+      "contact": "11111"
+    },
+    {
+      "id": "2",
+      "name": "Kashmir",
+      "details": "Nirala Khulna",
+      "contact": "22222"
+    },
+    {
+      "id": "8801",
+      "name": "Hello Cup Cake",
+      "details": "Nirala 7/28 Road",
+      "contact": "2222222"
+    },
+    {
+      "id": "80a9",
+      "name": "vabirhotel",
+      "details": "Nirala More Khulna",
+      "contact": "5555555"
+    },
+    {
+      "id": "1e5a",
+      "name": "amitumi",
+      "details": "Khulna Nirala",
+      "contact": "66666666"
+    }
+  ]
+}
